@@ -8,7 +8,7 @@ function Counter() {
 return(
 <div>
 <h1>Counter : {count}</h1>
-<button onClick={increase}>increase</button>
+<button className='Button' onClick={increase}>increase</button>
 </div>
 );
 }
