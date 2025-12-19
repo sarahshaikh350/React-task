@@ -18,7 +18,7 @@ function App()  {
     <WelcomeMessage />
     <Header/>
     <Counter/>
-   <Greeting name="Ali"/>
+   <Greeting name="Afsah"/>
    <Greeting name=" Sara"/>
    <Greeting name="Areesha"/>
    <ToggleText/>
